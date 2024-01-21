@@ -3,7 +3,7 @@ I am currently exploring opportunities in the field of Data Analysis and Data Sc
 I am passionate about leveraging data to derive insights and make informed decisions.
 
 ## Skills
-- **Data Analysis:** Proficient in Power BI.
+- **Data Analysis:** Proficient in Tableau.
 - **Database Management:** Experienced in SQL.
 
 ## Current Focus
